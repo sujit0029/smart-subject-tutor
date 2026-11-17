@@ -215,6 +215,17 @@ tempCodeRunnerFile.py
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+.env
+.env.*
+!.env.example
+*.pem
+credentials.json
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+chroma_db/
+uploads/
 
 # Streamlit
 .streamlit/secrets.toml
